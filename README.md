@@ -1,6 +1,6 @@
 - 👋 Hola, Soy Aparicio Capcha
 - 👀 Me interesa la Psicología
-- 🌱 Actualmente estoy aprendiendo HTML, ....etc 
+- 🌱 Actualmente estoy aprendiendo HTML, JS ....etc 
 - 💞️ Puedo colaborar en proyectos 
 - 📫 Puedes contactarme en apariciocch en las diferentes redes sociales. 
 <!---
